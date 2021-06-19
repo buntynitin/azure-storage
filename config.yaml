@@ -1,0 +1,3 @@
+---
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=nitinstorageazure;AccountKey=zVg54DKtp4iQPdUNXdIJo9uNUrG7KcnCEROZc3mbeeUYPQYZkcG9ey26VTNUEwDiDonXl3Nbpr3meQYhUu+4qQ==;EndpointSuffix=core.windows.net"
+images_container_name: "reports"
